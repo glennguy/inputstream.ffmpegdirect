@@ -1,3 +1,7 @@
+v19.0.2
+- Translations updates from Weblate
+	- hr_hr, ro_md, scn
+
 v19.0.1
 - Translations updates from Weblate
 
